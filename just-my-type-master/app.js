@@ -1,0 +1,1 @@
+$("#keyboard-upper-container").hide();
